@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene the Queenes Maiestie considering the euil disposition of sundry her subiects, to keepe the ancient orders for abstinence from eating of flesh, aswell in the time of Lent, as vpon other vsuall fasting days ... straitly chargeth all manner of people ... from henceforth yerely to obserue and keepe the ancient and laudable order for fasting ...</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21933</idno><idno type="EEBO-CITATION">33150881</idno>
+  <idno type="VID">28799</idno>
+  <idno type="EEBO-PROQUEST">2240921768</idno>
+  <idno type="STC">STC 8262</idno>
+  <idno type="STC">ESTC S3740</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A21933)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28799)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1874:101)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene the Queenes Maiestie considering the euil disposition of sundry her subiects, to keepe the ancient orders for abstinence from eating of flesh, aswell in the time of Lent, as vpon other vsuall fasting days ... straitly chargeth all manner of people ... from henceforth yerely to obserue and keepe the ancient and laudable order for fasting ...</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>2 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By the Deputies of Christopher Barker, Printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1597.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains historiated initial.</note>
+                  <note>Other title information from first 8 lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Lent.</term>
+               <term type="topical_term">Fasts and feasts --  Church of England.</term>
+               <term type="topical_term">Fasts and feasts --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Elizabeth, 1558-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28799:1"/>
+            <head>❧ By the Queene.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Queenes Maiestie considering the euil disposition of sundry her Subiects, to keepe the ancient orders for abstinence from eating of flesh, aswell in the time of Lent, as vpon other vsuall fasting daies: and weighing the great notable commodities growing by the due obseruation thereof within her Maiesties dominions, many maner of waies: Straitly chargeth all ma<g ref="char:EOLhyphen"/>ner of people residing in the same, from henceforth yerely to ob<g ref="char:EOLhyphen"/>serue and keepe the ancient and laudable order for fasting, as well in the Lent time, as vpon all other fish dayes. And like<g ref="char:EOLhyphen"/>wise commandeth all maner officers, both Ecclessasticall and Temporall, to whome the regard hereof doeth or may belong, straightly to see the same well and duely obserued. Willing and com<g ref="char:EOLhyphen"/>manding them in the Name of Almightie God, before whom they shall answere for their particu<g ref="char:EOLhyphen"/>lar charges, and as they will also answere to her Maiestie for their apparant contempt or negli<g ref="char:EOLhyphen"/>gence, that they doe not either by their owne example, or by lacke of execution of their authority, permit such licentious and carnall disorder, in contempt of God and man, and onely to the satis<g ref="char:EOLhyphen"/>faction of deuilish and carnall appetite, to bee suffered vnpunished. And because the maner of the execution hereof in the Citie and Suburbes of London and Westminster, shall giue good ex<g ref="char:EOLhyphen"/>ample to the rest of the Realme: her Maiestie by this present Proclamation straightly comman<g ref="char:EOLhyphen"/>deth and chargeth the Maior of her said Citie, and the Steward and principall officers of West<g ref="char:EOLhyphen"/>minster, that no Butcher, Poulter, nor Victualler, shall at any time hereafter kill, or sell, cause to be killed or solde within the said Citie, or the Suburbs, or within Westminster, or the iurisdiction thereof, any flesh, betweene Shreftuesday, and the Tuesday next after Palme Sunday: nor that any Table keeper, Inholder, Victualler, or any other person that keepeth any house whereto any persons doe or shall resort for meate and drinke for their money, nor any other person residing within the same places, shall dresse, or suffer, or consent to be dressed, or eate, or suffer to be eaten, any flesh within any of their houses in Lent time, or vpon any Fish day, vpon paine that euery person and persons that shall offend contrary to this order, shall forfeite and pay to her Highnesse for euery such offence, twentie pounds, the one halfe to be disposed by their Churchwardens, to their poore people inhabiting the Parish where the offence shalbe found, &amp; the other to her High<g ref="char:EOLhyphen"/>nesse vse, as in like case is ordered. And besides, if the person offending bee a Citizen, he shall by the Maior and his brethren without delay bee immediately for euer disfranchised: and beeing a Table keeper or Victualler, vtterly disabled in any place to vse the same trade. And if hee bee no Citizen, then he shall ouer and besides the saide forfeiture, haue for euery such offence ten dayes imprisonment without bayle: and if the partie offending, be not able to pay the saide forfeiture, immediatly vpon proofe made of the offence committed, the same shall for euery such offence stand one market day in the market time openly vpon the Pillorie, during the space of sixe houres. And also that euery Alderman for the time being, within his warde, shall twise in the Lent time cause an inquirie and presentment to bee made by the othes of xii. honest and substantiall Citizens of euery warde, being no Butchers, Poulters, common Victuallers, nor Table keepers, what per<g ref="char:EOLhyphen"/>sons haue or doe offende in eating, killing, or selling of flesh within that warde, wherof the one in<g ref="char:EOLhyphen"/>quirie shalbe the Munday after Midlent Sunday, and the other in the weeke next before Easter, and that in the choyse of the persons which shall so enquire, good regard be had, that they be such as bee best disposed to finde out, and truely to present such offences without any respect of persons. And also that the Maior with his brethren cause once euery fortnight priuie search to be made by honest &amp; trustie persons, of the houses of all Butchers, Poulters, Table keepers, Tauerners, Vic<g ref="char:EOLhyphen"/>tuallers, and other suspected houses, for the better vnderstanding whether they or any of them do offend in the premisses: and that if they shall finde either by this search, or by any lawfull proofe brought before them, any person to haue offended, that then immediatly they cause the offenders to be punished, as is aboue expressed, without fauour, affection, or respect of person. The like order to be kept by the discretion of the Steward or head officers in Westminster, as the case shall require.</p>
+            <pb facs="tcp:28799:2"/>
+            <pb facs="tcp:28799:2"/>
+            <p>And it is further ordered and commanded, that aswell the sayde Maior, as also euery of the said Aldermen, and the principall officers of the liberties of Westminster, shall yeerely certifie vnto her Highnesse Court of Chancerie, before the first day of Easter Terme, vpon paine of one hun<g ref="char:EOLhyphen"/>dred pounds, what euery of them hath done in the execution of the premisses, vnder their hands and seales, to the intent that her Highnesse thereby may consider what diligence or negligence shall be vsed in the execution hereof, that thereupon order may bee taken with euery of them ac<g ref="char:EOLhyphen"/>cording to their deserts.</p>
+            <p>Prouided alwayes, that this order extend not to punish any person that by the Lawes Ecclesi<g ref="char:EOLhyphen"/>asticall and Temporall of this Realme, for needfull and iust considerations bee permitted to sell, kill, or eate flesh. And for the better intelligence of persons licenced vpon reasonable and necessa<g ref="char:EOLhyphen"/>rie cause, that none other may be coloured thereby: it is ordered and commaunded, that euery person hauing any licence, shall yeerely the first Sunday of Lent, notifie the same to the Alder<g ref="char:EOLhyphen"/>man of the Warde within any Citie, and to the Curate of the Parish, or to one of them at the least, where he dwelleth, and intendeth to take the benefite of the dispensation, or els the dispen<g ref="char:EOLhyphen"/>sation to be voyde. This maner or the like order, her Maiestie commaundeth to bee obserued, as nigh as the same may be, in all places through her Realme, with like penalty, and specially in all corporate Townes: from which Townes corporate, being scituate within Cxl. miles of Lon<g ref="char:EOLhyphen"/>don, her Maiesties pleasure is, that Certificate in forme aforesaid be made into her Maiesties Chauncery, at the furthest before the second returne of Easter Terme, vpon paine of one hun<g ref="char:EOLhyphen"/>dred pounds, to be leuied to her Maiesties vse, vpon the said corporation so making default: and from all other co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>porations being farther distant, Certificate is to be made, as is aforesaid, before the last day of Easter Terme, vpon like penaltie. And for the better obseruation hereof, her Ma<g ref="char:EOLhyphen"/>iestie requireth, &amp; in Gods name chargeth all Bishops, Curates, and other Ecclesiastical persons, hauing the cure of soules, or the charge of preaching, to exhort and perswade in their Sermons, the people to forbeare this carnall licence and boldnesse to breake common order, and to let them plainly vnderstand the great dangers of the wrath of Almighty God, that hath and wil alwayes light vpon such rebellious and obstinate people, that more regard their bellies and appetites, then temperance and obedience.</p>
+            <p>And because her Maiestie would that this Proclamation should haue continuance: her Ma<g ref="char:EOLhyphen"/>iestie chargeth all Maiors, Sheriffes, and other head officers, to whom appertaineth the publi<g ref="char:EOLhyphen"/>cation of this or like Proclamations, that this be proclaimed foorthwith in euery place vsuall, and yeerely bee proclaimed hereafter, vpon such market dayes as shall in any place next goe be<g ref="char:EOLhyphen"/>fore the first weeke of Lent: and that in euery Leete at Easter, inquisition be made of the execu<g ref="char:EOLhyphen"/>tion hereof.</p>
+            <closer>God saue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by the De<g ref="char:EOLhyphen"/>puties of Christopher Barker, Printer to the Queenes <hi>most excellent Maiestie.</hi> 1597.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
